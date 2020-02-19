@@ -1,0 +1,31 @@
+body{
+    font-family: Helvetica;
+    color: slategray;
+    width: 600px;
+}
+
+nav{
+    width: 600px;
+}
+
+#rechts{
+    text-align: right;
+    margin-left: 10px;
+}
+footer{
+    font-size: 12px;
+    margin-top: 10px;
+}
+.cleanlink{
+    color: black;
+    text-decoration: none;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+.cleanlink:hover{
+    text-decoration: underline;
+}
+hr{
+    border-style: double;
+    border-color:slategray;
+}
